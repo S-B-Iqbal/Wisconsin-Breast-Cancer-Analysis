@@ -5,7 +5,7 @@ The algorithm is able to predict 'malign' tumors with a 98% accuracy.
 
 ## Motivation
 
-The current project is an attempt to showcase ability of K-means algorithm in the field of Health Informatics.
+The current project is an attempt to showcase ability of K-NN algorithm in the field of Health Informatics.
 
 ## Contribution
 
